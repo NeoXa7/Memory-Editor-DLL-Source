@@ -1,0 +1,22 @@
+D:\Visual Studio\Visual Studio Project\MemEdit\MemEdit\bin\Release\net8.0\MemEdit.deps.json
+D:\Visual Studio\Visual Studio Project\MemEdit\MemEdit\bin\Release\net8.0\MemEdit.dll
+D:\Visual Studio\Visual Studio Project\MemEdit\MemEdit\bin\Release\net8.0\MemEdit.pdb
+D:\Visual Studio\Visual Studio Project\MemEdit\MemEdit\obj\Release\net8.0\MemEdit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Visual Studio Project\MemEdit\MemEdit\obj\Release\net8.0\MemEdit.AssemblyInfoInputs.cache
+D:\Visual Studio\Visual Studio Project\MemEdit\MemEdit\obj\Release\net8.0\MemEdit.AssemblyInfo.cs
+D:\Visual Studio\Visual Studio Project\MemEdit\MemEdit\obj\Release\net8.0\MemEdit.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Visual Studio Project\MemEdit\MemEdit\obj\Release\net8.0\MemEdit.dll
+D:\Visual Studio\Visual Studio Project\MemEdit\MemEdit\obj\Release\net8.0\refint\MemEdit.dll
+D:\Visual Studio\Visual Studio Project\MemEdit\MemEdit\obj\Release\net8.0\MemEdit.pdb
+D:\Visual Studio\Visual Studio Project\MemEdit\MemEdit\obj\Release\net8.0\ref\MemEdit.dll
+D:\Visual Studio\Visual Studio Project\MemEdit my own Dll\MemEdit\bin\Release\net8.0\MemEdit.deps.json
+D:\Visual Studio\Visual Studio Project\MemEdit my own Dll\MemEdit\bin\Release\net8.0\MemEdit.dll
+D:\Visual Studio\Visual Studio Project\MemEdit my own Dll\MemEdit\bin\Release\net8.0\MemEdit.pdb
+D:\Visual Studio\Visual Studio Project\MemEdit my own Dll\MemEdit\obj\Release\net8.0\MemEdit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Visual Studio Project\MemEdit my own Dll\MemEdit\obj\Release\net8.0\MemEdit.AssemblyInfoInputs.cache
+D:\Visual Studio\Visual Studio Project\MemEdit my own Dll\MemEdit\obj\Release\net8.0\MemEdit.AssemblyInfo.cs
+D:\Visual Studio\Visual Studio Project\MemEdit my own Dll\MemEdit\obj\Release\net8.0\MemEdit.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Visual Studio Project\MemEdit my own Dll\MemEdit\obj\Release\net8.0\MemEdit.dll
+D:\Visual Studio\Visual Studio Project\MemEdit my own Dll\MemEdit\obj\Release\net8.0\refint\MemEdit.dll
+D:\Visual Studio\Visual Studio Project\MemEdit my own Dll\MemEdit\obj\Release\net8.0\MemEdit.pdb
+D:\Visual Studio\Visual Studio Project\MemEdit my own Dll\MemEdit\obj\Release\net8.0\ref\MemEdit.dll
